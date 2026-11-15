@@ -1,0 +1,7 @@
+debug.log
+2026-11-14_DRIFT_REPORT.md
+concepts_brief.md
+design_draft.md
+__pycache__/
+*.pyc
+.DS_Store
